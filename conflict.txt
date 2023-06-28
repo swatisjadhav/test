@@ -1,2 +1,2 @@
-Checking merge conflict
-updating merge conflict
+Adding new things
+deleting as well
