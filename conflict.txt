@@ -1,2 +1,3 @@
 
 updating merge conflict
+Adding new things
